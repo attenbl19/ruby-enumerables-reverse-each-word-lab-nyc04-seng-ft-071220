@@ -1,4 +1,4 @@
-def reverse_each_word(string)
-  (string)to.ary = []
+def reverse_each_word(str_sent)
+  
 
 end
